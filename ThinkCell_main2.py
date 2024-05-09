@@ -63,9 +63,9 @@ def read_csv(data_file_path):
     return data
 
 
-template_path = "C:\\Coding\\Think-Cell\\Herd_Growth.pptx"
-ppttc_path = ".\\result\\Herd_Data_in_JSON.ppttc"
-output_pptx_path = ".\\result\\Final_Sheep_Presenation.pptx"
+template_path = "Herd_Growth.pptx"
+ppttc_path = "Herd_Data_in_JSON.ppttc"
+output_pptx_path = "Final_Sheep_Presenation.pptx"
 data_file_path = "sheep.csv"
 
 # upload data from csv
