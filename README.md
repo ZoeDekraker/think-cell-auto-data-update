@@ -1,4 +1,4 @@
-# think-cell-data-update
+# think-cell-chart-update
 Automatically update the data in your Powerpoint Think-Cell charts from a csv file using Python.
 
 Explainer video: 
