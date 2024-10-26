@@ -72,7 +72,7 @@ data_file_path = "sheep.csv"
 data = read_csv(data_file_path)
 
 # Call the function and write the output to a file.
-json_output = generate_json_for_thinkcell(data, template_path, ppttc_path)
+json_output = generate_json_for_thinkcell(data, template_path)
 with open(ppttc_path, 'w') as file:
     file.write(json_output)
 
